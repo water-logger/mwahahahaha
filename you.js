@@ -25,7 +25,7 @@ function openWindow(url) {
 function procreate() {
 	changeTitle("Idiot!");
 	for (var i = 0; i < 5; i++) {
-		openWindow('lol.html');
+		openWindow('index.html');
 	}
 }
 
