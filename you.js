@@ -2,7 +2,7 @@ function bookmark() {
 		if ((navigator.appName == "Microsoft Internet Explorer") 
 		&& (parseInt(navigator.appVersion) >= 4)) 
 		{
-		var url="lol.html";
+		var url="index.html";
 		var title="Idiot!";
 		window.external.AddFavorite(url,title);
 		}
